@@ -3,8 +3,8 @@ name: cheerful-subversion
 description: Transform earnest or serious content by approaching it with inappropriate cheerfulness and optimism, creating tonal mismatch that delivers critique through comedy.
 license: MIT
 metadata:
-  version: 1.0.3581
   author: sethmblack
+  version: 1.0.3582
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
